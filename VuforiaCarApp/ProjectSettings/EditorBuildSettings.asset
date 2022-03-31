@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CarPresentationScene.unity
+    guid: 8ca1969f562e37a43b7c97de41407126
   m_configObjects: {}
